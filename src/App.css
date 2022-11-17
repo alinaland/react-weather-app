@@ -1,0 +1,14 @@
+.App {
+  max-width: 700px;
+  margin: 30px auto;
+}
+
+.App footer {
+  font-size: 14px;
+  margin: 10px 0;
+  color: #a6b1e1;
+}
+
+.App a {
+  color: #a6b1e1;
+}
