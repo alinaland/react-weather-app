@@ -9,7 +9,7 @@ export default function WeatherTemperature(props) {
   }
 
   function showCelsius(event) {
-    event.preventDefault;
+    event.preventDefault();
     setUnit("celsius");
   }
 
