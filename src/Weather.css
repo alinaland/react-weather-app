@@ -44,6 +44,7 @@ body {
   font-size: 64px;
   line-height: 64px;
   color: #fffdf2;
+  margin-left: 5px;
 }
 
 .Weather .unit {
