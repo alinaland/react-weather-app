@@ -8,10 +8,18 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project is coded by{" "}
-          <a href="https://alina-ananyeva.netlify.app">Alina Ananyeva</a> and is{" "}
+          <a
+            href="https://alina-ananyeva.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Alina Ananyeva
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/alinaland/react-weather-app"
-            targte="_blank"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             open-sourced
           </a>
